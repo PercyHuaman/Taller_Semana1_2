@@ -1,3 +1,5 @@
+// AGREGANDO COMENTARIO PROGRAMOR B - SEMANA02
+
 package semana01; 
 
 import java.util.ArrayList;
